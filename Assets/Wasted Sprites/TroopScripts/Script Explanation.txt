@@ -1,0 +1,17 @@
+!!!3 SCRIPTS!!!
+1. Stat Script: Holds Values for Health, Range, Dmg Red, Armor Piercing, Speed, Attack Speed. 
+2. Movement Script: Informs troops how to move and what to target 
+3. Gun Script: Informs how they attack
+
+Gun Breakdown
+=================
+Gun types (5) Pistol, AR, Sniper, Rocket Launcher, Shield 
+-------------------------------------------------------------
+Pistol- Low Health, Attack Speed Low, Armor Piercing Low, Dmg Low, DmgRed Low, Speed High, Range Low
+AR- Average Health, Attack Speed High, Armor Piercing Average, Dmg Average, DmgRed Average, Speed Average, Range Average
+Sniper- Average Health Attack Speed Low, Armor Piercing High, Dmg High, DmgRed Low, Speed Low, Range High
+Rocket- Average Health, Attack Speed Low, Armor Piercing High, Dmg High, DmgRed Average, Speed Low, Range High, Splash Dmg On
+Shield - High Health, Attack Speed Average, Armor Piercing Zero, Dmg Low, Dmg Red HIGH, Speed LOW, Range LOW, Melee Only 
+
+
+***Upgrades Effect: Range, Speed, Health
